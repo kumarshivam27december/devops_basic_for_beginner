@@ -1,0 +1,52 @@
+cicd pipeline
+what is automation ?
+three way => system thinking, ,culture exchange
+
+
+
+
+Roadmap
+
+operating system linux
+scripting  shell scripting and bash
+sscripting python basic and data structuure
+scripting  python project for resume
+version control git and github
+docker     docker explained for begineers in one video
+cloud service provider    AWS setup
+cloud service providers Aws important services
+cloud service providers Aws lambda project
+ci/cd jenkins setup and installation
+ci/cd jenkins ci/cd project
+infrastucture as code VAML for begginer
+,,,,,,,,,,,,,,,,,,,,,  ansitive tutorial
+kubernetes 
+kubernities project
+infrastucture as code terraform for beggi
+monitoring grafana
+monitoring 
+
+
+aws certificate
+awa ,,
+DCA docker certified 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
